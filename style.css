@@ -1,0 +1,33 @@
+h3{
+    color: RED;
+font-family: cursive;
+font-size: 2em; 
+}
+
+header{
+    background-color: black;
+}
+.one{
+    border-style: solid;
+    border-width: 3;
+    border-color: aquamarine;
+border-radius:5px;
+}
+.two{
+    border-style: dashed;
+    border-width:4;
+    border-color: brown;
+    border-radius:10px;
+}
+.three{
+    border-style: double;
+    border-width:5;
+    border-color: chartreuse;
+    border-radius:20px;
+}
+.four{
+    border-top:5px double rgb(95, 34, 95);
+    border-right: 5px dashed rgb(172, 130, 54);
+    border-left:5px solid rgb(185, 185, 243) ;
+border-bottom:5px dotted rgb(255, 153, 0);
+}
